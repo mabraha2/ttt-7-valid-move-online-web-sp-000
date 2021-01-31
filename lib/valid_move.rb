@@ -1,6 +1,6 @@
 def valid_move?(board, index)
-if board[index] == [" ", " ", " ", " ", " ", " ", " ", " ", " "] 
-  true 
+if board[index] == [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+  true
 end
 
 #code your #valid_move? method here
