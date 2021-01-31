@@ -1,6 +1,6 @@
 def valid_move?(board, index)
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-if board[index] == board 
+if board[index] == board
   true
 end
 
