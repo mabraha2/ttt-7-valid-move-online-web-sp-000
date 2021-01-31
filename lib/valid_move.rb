@@ -1,7 +1,5 @@
 def valid_move?(board, index)
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-if board[index] == board
-  true
+
 end
 
 #code your #valid_move? method here
